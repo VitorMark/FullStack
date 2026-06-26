@@ -1,5 +1,5 @@
 function abrirGmail() {
-    var destinatario = 'Vitormark10@gmail.com';
+    var destinatario = 'fiobomoficial@gmail.com';
     var mensagem = document.getElementById('mensagem').value;
     var assunto = document.getElementById('assunto').value;
 
